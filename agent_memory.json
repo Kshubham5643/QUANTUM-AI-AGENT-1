@@ -1,0 +1,229 @@
+{
+    "learned_rules": [
+        {
+            "trigger": "OPEN YT",
+            "action": "youtube",
+            "target": "https://www.youtube.com"
+        }
+    ],
+    "chat_history": [
+        {
+            "time": "2026-10-25 16:35:41.630222",
+            "user": "LETS WATCH MOTU PATLU ",
+            "agent": "Sure, let's watch Motu Patlu! Where would you like to watch it (e.g., YouTube, Netflix, local media player)?"
+        },
+        {
+            "time": "2026-10-25 16:36:13.730169",
+            "user": "YOUTUBE",
+            "agent": "\ud83d\ude80 Executing YouTube Automation for: **youtube**"
+        },
+        {
+            "time": "2026-10-25 16:36:23.191217",
+            "user": "LOAD AGAIN ",
+            "agent": "Sure, reloading the system now."
+        },
+        {
+            "time": "2026-10-25 16:37:07.045630",
+            "user": "OPEN THE SAME YT PAGE AGAIN ",
+            "agent": "\ud83d\ude80 Executing YouTube Automation for: **the same page**"
+        },
+        {
+            "time": "2026-10-25 16:42:36.560865",
+            "user": "LETS WATCH MOTU PATLU ON YOUTUBE ",
+            "agent": "\ud83d\ude80 Executing YouTube Automation for: **Motu Patlu**"
+        },
+        {
+            "time": "2026-10-25 16:43:09.484885",
+            "user": "OPEN YOUTUBE",
+            "agent": "\ud83d\ude80 Executing YouTube Automation for: **youtube**"
+        },
+        {
+            "time": "2026-10-25 16:43:44.659078",
+            "user": "THNK U",
+            "agent": "You're welcome! How else can I assist you?"
+        },
+        {
+            "time": "2026-10-25 16:57:25.329557",
+            "user": "OPEN MR BEAST ON YOUTUBE",
+            "agent": "\ud83d\ude80 Executing YouTube Automation for: **MR BEAST**"
+        },
+        {
+            "time": "2026-10-25 16:57:56.457298",
+            "user": "WASSUP ",
+            "agent": "Hey! How can I help you today?"
+        },
+        {
+            "time": "2026-10-25 16:58:06.244006",
+            "user": "OPEN YT",
+            "agent": "\ud83d\ude80 Executing YouTube Automation for: **youtube**"
+        },
+        {
+            "time": "2026-10-25 17:01:22.934255",
+            "user": "OPEN YT",
+            "agent": "\ud83e\udde0 **New Rule Learned & Saved!**\n- When you say: *'OPEN YT'*\n- Action: `youtube` -> Target: `https://www.youtube.com`"
+        },
+        {
+            "time": "2026-10-25 17:01:53.000733",
+            "user": "OPEN YT",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **https://www.youtube.com**"
+        },
+        {
+            "time": "2026-10-25 17:05:49.990450",
+            "user": "OPEN YT",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **https://www.youtube.com**"
+        },
+        {
+            "time": "2026-10-25 17:36:09.599500",
+            "user": "i wanna go to starbucks ",
+            "agent": "Sure! Are you looking for directions to the nearest Starbucks, or would you like me to open its location on Google Maps?"
+        },
+        {
+            "time": "2026-10-25 17:36:18.161036",
+            "user": "yup",
+            "agent": "Sure thing! How can I help you today?"
+        },
+        {
+            "time": "2026-10-25 17:40:10.342637",
+            "user": "hey",
+            "agent": "Hello! How can I help you today?"
+        },
+        {
+            "time": "2026-10-25 17:40:22.560402",
+            "user": "i wanna go to starbucks",
+            "agent": "Sure! I can help you find a nearby Starbucks. Would you like me to open a map showing the nearest location for you?"
+        },
+        {
+            "time": "2026-10-25 17:40:28.947228",
+            "user": "yup",
+            "agent": "Sure, how can I assist you today?"
+        },
+        {
+            "time": "2026-10-25 17:44:57.623135",
+            "user": "hey",
+            "agent": "Hello! How can I help you today?"
+        },
+        {
+            "time": "2026-10-25 17:45:10.147417",
+            "user": "i wanna go starbuks",
+            "agent": "\ud83d\uddfa\ufe0f Opening Google Maps for: **Starbucks**"
+        },
+        {
+            "time": "2026-10-25 17:45:57.914682",
+            "user": "close the map window",
+            "agent": "I\u2019m not able to directly control or close windows on your device. If you need help with a specific application, let me know and I can guide you through the steps!"
+        },
+        {
+            "time": "2026-10-25 17:46:25.388692",
+            "user": "i wanna watch shiva ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **shiva**"
+        },
+        {
+            "time": "2026-10-25 17:47:13.553314",
+            "user": "open yt ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **https://www.youtube.com**"
+        },
+        {
+            "time": "2026-10-25 17:47:27.640078",
+            "user": "open yt",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **https://www.youtube.com**"
+        },
+        {
+            "time": "2026-10-25 17:50:42.265514",
+            "user": "hello ",
+            "agent": "Hello! How can I help you today?"
+        },
+        {
+            "time": "2026-10-25 17:50:54.008695",
+            "user": "open yt",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **https://www.youtube.com**"
+        },
+        {
+            "time": "2026-10-25 17:53:12.383635",
+            "user": "open yt ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **https://www.youtube.com**"
+        },
+        {
+            "time": "2026-10-25 17:54:36.638172",
+            "user": "open yt ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **open yt **"
+        },
+        {
+            "time": "2026-10-25 17:54:57.667846",
+            "user": "i wanna watch motu patlu ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **motu patlu**"
+        },
+        {
+            "time": "2026-10-25 18:09:45.724301",
+            "user": "open yt",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **open yt**"
+        },
+        {
+            "time": "2026-10-25 18:10:26.873538",
+            "user": "lets watch motu patlu",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **motu patlu**"
+        },
+        {
+            "time": "2026-10-25 18:12:16.697755",
+            "user": "hello",
+            "agent": "Hello! How can I help you today?"
+        },
+        {
+            "time": "2026-10-25 18:12:34.272214",
+            "user": "lets watch wwe",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **wwe**"
+        },
+        {
+            "time": "2026-10-25 18:13:56.101633",
+            "user": "open yt ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **open yt **"
+        },
+        {
+            "time": "2026-10-25 18:17:22.674469",
+            "user": "open yt ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **open yt **"
+        },
+        {
+            "time": "2026-10-25 18:17:59.705215",
+            "user": "lets watch tech fc latest video ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **tech fc latest video**"
+        },
+        {
+            "time": "2026-10-25 18:19:40.255446",
+            "user": "open yt ",
+            "agent": "\ud83d\ude80 Launching YouTube Automation for: **open yt **"
+        },
+        {
+            "time": "2026-10-25 18:27:01.824680",
+            "user": "open latest screenshot",
+            "agent": "Sure! Which screenshot would you like to open?"
+        },
+        {
+            "time": "2026-10-25 18:27:42.152084",
+            "user": "last one",
+            "agent": "I'm not sure what you mean by \"last one\". Could you clarify or let me know what you would like to do?"
+        },
+        {
+            "time": "2026-10-25 18:28:21.167261",
+            "user": "screenshot taken on 25th of oct",
+            "agent": "I see you're mentioning a screenshot taken on October 25th. How can I help you with it?"
+        },
+        {
+            "time": "2026-10-25 18:28:29.565272",
+            "user": "open it ",
+            "agent": "I\u2019m not sure what you\u2019d like to open. Could you clarify?"
+        },
+        {
+            "time": "2026-10-25 18:28:40.315949",
+            "user": "screenshot picture",
+            "agent": "I\u2019m not able to take a screenshot directly, but I can guide you on how to capture one on your device if that helps!"
+        }
+    ],
+    "user_profile": {
+        "name": "Shubham",
+        "preferences": "",
+        "extensions_enabled": true
+    },
+    "extensions": [
+        "youtube_agent.py"
+    ]
+}
