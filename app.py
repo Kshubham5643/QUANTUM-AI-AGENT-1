@@ -1,3 +1,9 @@
+import subprocess
+import sys
+
+# If Linux doesn't have CREATE_NO_WINDOW, this dynamically creates a dummy attribute so it never crashes
+if not hasattr(subprocess, 'CREATE_NO_WINDOW'):
+    subprocess.CREATE_NO_WINDOW = 0
 import streamlit as st
 import subprocess
 import sys
